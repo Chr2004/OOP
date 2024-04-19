@@ -1,0 +1,28 @@
+C:\Users\Chris\OneDrive\Documenten\Schooljaar2023-2024\Periode4\Zuul\bin\Debug\net8.0\Zuul.exe
+C:\Users\Chris\OneDrive\Documenten\Schooljaar2023-2024\Periode4\Zuul\bin\Debug\net8.0\Zuul.deps.json
+C:\Users\Chris\OneDrive\Documenten\Schooljaar2023-2024\Periode4\Zuul\bin\Debug\net8.0\Zuul.runtimeconfig.json
+C:\Users\Chris\OneDrive\Documenten\Schooljaar2023-2024\Periode4\Zuul\bin\Debug\net8.0\Zuul.dll
+C:\Users\Chris\OneDrive\Documenten\Schooljaar2023-2024\Periode4\Zuul\bin\Debug\net8.0\Zuul.pdb
+C:\Users\Chris\OneDrive\Documenten\Schooljaar2023-2024\Periode4\Zuul\obj\Debug\net8.0\Zuul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris\OneDrive\Documenten\Schooljaar2023-2024\Periode4\Zuul\obj\Debug\net8.0\Zuul.AssemblyInfoInputs.cache
+C:\Users\Chris\OneDrive\Documenten\Schooljaar2023-2024\Periode4\Zuul\obj\Debug\net8.0\Zuul.AssemblyInfo.cs
+C:\Users\Chris\OneDrive\Documenten\Schooljaar2023-2024\Periode4\Zuul\obj\Debug\net8.0\Zuul.csproj.CoreCompileInputs.cache
+C:\Users\Chris\OneDrive\Documenten\Schooljaar2023-2024\Periode4\Zuul\obj\Debug\net8.0\Zuul.dll
+C:\Users\Chris\OneDrive\Documenten\Schooljaar2023-2024\Periode4\Zuul\obj\Debug\net8.0\refint\Zuul.dll
+C:\Users\Chris\OneDrive\Documenten\Schooljaar2023-2024\Periode4\Zuul\obj\Debug\net8.0\Zuul.pdb
+C:\Users\Chris\OneDrive\Documenten\Schooljaar2023-2024\Periode4\Zuul\obj\Debug\net8.0\Zuul.genruntimeconfig.cache
+C:\Users\Chris\OneDrive\Documenten\Schooljaar2023-2024\Periode4\Zuul\obj\Debug\net8.0\ref\Zuul.dll
+C:\Users\Chris\OneDrive\Documenten\Schooljaar2023-2024\Periode4\Text adventure\bin\Debug\net8.0\Zuul.exe
+C:\Users\Chris\OneDrive\Documenten\Schooljaar2023-2024\Periode4\Text adventure\bin\Debug\net8.0\Zuul.deps.json
+C:\Users\Chris\OneDrive\Documenten\Schooljaar2023-2024\Periode4\Text adventure\bin\Debug\net8.0\Zuul.runtimeconfig.json
+C:\Users\Chris\OneDrive\Documenten\Schooljaar2023-2024\Periode4\Text adventure\bin\Debug\net8.0\Zuul.dll
+C:\Users\Chris\OneDrive\Documenten\Schooljaar2023-2024\Periode4\Text adventure\bin\Debug\net8.0\Zuul.pdb
+C:\Users\Chris\OneDrive\Documenten\Schooljaar2023-2024\Periode4\Text adventure\obj\Debug\net8.0\Zuul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris\OneDrive\Documenten\Schooljaar2023-2024\Periode4\Text adventure\obj\Debug\net8.0\Zuul.AssemblyInfoInputs.cache
+C:\Users\Chris\OneDrive\Documenten\Schooljaar2023-2024\Periode4\Text adventure\obj\Debug\net8.0\Zuul.AssemblyInfo.cs
+C:\Users\Chris\OneDrive\Documenten\Schooljaar2023-2024\Periode4\Text adventure\obj\Debug\net8.0\Zuul.csproj.CoreCompileInputs.cache
+C:\Users\Chris\OneDrive\Documenten\Schooljaar2023-2024\Periode4\Text adventure\obj\Debug\net8.0\Zuul.dll
+C:\Users\Chris\OneDrive\Documenten\Schooljaar2023-2024\Periode4\Text adventure\obj\Debug\net8.0\refint\Zuul.dll
+C:\Users\Chris\OneDrive\Documenten\Schooljaar2023-2024\Periode4\Text adventure\obj\Debug\net8.0\Zuul.pdb
+C:\Users\Chris\OneDrive\Documenten\Schooljaar2023-2024\Periode4\Text adventure\obj\Debug\net8.0\Zuul.genruntimeconfig.cache
+C:\Users\Chris\OneDrive\Documenten\Schooljaar2023-2024\Periode4\Text adventure\obj\Debug\net8.0\ref\Zuul.dll
