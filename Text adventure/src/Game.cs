@@ -3,14 +3,12 @@ using System.Collections.Generic;
 
 class Game
 {
-	// Private fields
 	private Parser parser;
 	private Player player;
 	private bool keyUsed = false;
 	Item key = new Item(15, "Key");
 	Item medkit = new Item(20, "Medkit");
 
-	// Constructor
 	public Game()
 	{
 		parser = new Parser();
@@ -18,7 +16,6 @@ class Game
 		CreateRooms();
 	}
 
-	// Initialise the Rooms (and the Items)
 	private void CreateRooms()
 	{
 		Room courtyard = new Room("in the castle courtyard");
@@ -56,7 +53,6 @@ class Game
 		player.CurrentRoom = courtyard;
 	}
 
-	// Main game loop
 	public void Play()
 	{
 		PrintWelcome();
@@ -72,7 +68,6 @@ class Game
 		Console.ReadLine();
 	}
 
-	// Print welcome message
 	private void PrintWelcome()
 	{
 		Console.WriteLine();
@@ -84,7 +79,6 @@ class Game
 		Console.WriteLine(player.CurrentRoom.GetLongDescription(player));
 	}
 
-	// Process user commands
 	private bool ProcessCommand(Command command)
 	{
 		bool wantToQuit = false;
@@ -141,7 +135,6 @@ class Game
 		return wantToQuit;
 	}
 
-	// Print help information
 	private void PrintHelp()
 	{
 		Console.WriteLine("You are exploring a castle.");
@@ -150,7 +143,6 @@ class Game
 		parser.PrintValidCommands();
 	}
 
-	// Look around the room
 	private void Look()
 	{
 		Console.WriteLine(player.CurrentRoom.GetLongDescription(player));
@@ -166,7 +158,6 @@ class Game
 		}
 	}
 
-	// Take an item from the room
 	private void Take(Command command)
 	{
 		if (!command.HasSecondWord())
@@ -181,7 +172,6 @@ class Game
 
 	}
 
-	// Drop an item to the room
 	private void Drop(Command command)
 	{
 		if (!command.HasSecondWord())
@@ -197,7 +187,6 @@ class Game
 
 	}
 
-	// Display player's health and items
 	private void Health()
 	{
 		Console.WriteLine($"Your health is: {player.GetHealth()}");
@@ -219,7 +208,6 @@ class Game
 		}
 	}
 
-	// Move to another room
 	private void GoRoom(Command command)
 	{
 		if (!command.HasSecondWord())
@@ -246,7 +234,6 @@ class Game
 		}
 	}
 
-	// Use an item
 	private void UseItem(Command command, out bool keyUsed)
 	{
 		if (!command.HasSecondWord())
@@ -273,7 +260,6 @@ class Game
 
 			if (itemUsed)
 			{
-				// Additional actions for using other items
 			}
 			return;
 		}
